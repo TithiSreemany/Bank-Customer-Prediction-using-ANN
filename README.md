@@ -10,3 +10,20 @@ Designed a Deep Learning model using ANNs that takes in various relevant feature
 
 ### Packages Used :
 Numpy, Pandas, TensorFlow
+
+### Dataset Description
+Churn_Modelling.csv
+#### Fields
+- CustomerId	
+- Surname	
+- CreditScore	
+- Geography	
+- Gender	
+- Age	
+- Tenure	
+- Balance	
+- NumOfProducts	
+- HasCrCard	
+- IsActiveMember	
+- EstimatedSalary	
+- Exited (To be predicted)
